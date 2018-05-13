@@ -5,7 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class EqualArray {
-
+// Find the minimum non negative number X in the array such that there exist an index j where u can replace A[j] by A[J]+X ,
+// and the sum of the array from index 1 to j and j+1 to N becomes equal , where 1<= j<=N-1 . Assume array to be 1-indexed.
+//If there is no possible X print -1 in separate line .(DELL EMC)        
 public static void main(String[] args) throws NumberFormatException,
 IOException {
 // TODO Auto-generated method stub
