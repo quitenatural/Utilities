@@ -52,7 +52,7 @@ public class OneSwap2 {
 		}
 	}
 
-	
+	//Funtions to tell whether palindrome possible from a string or not
 	static String characterCount(String inputString) {
 		// Creating a HashMap containing char as a key and occurrences as a
 		// value
