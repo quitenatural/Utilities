@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Stack;
 
 public class OneSwap2 {
-
+         //Function to tell whether in 1 swap a palindrome can be made or not .
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
